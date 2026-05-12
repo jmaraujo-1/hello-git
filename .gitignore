@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment variables (SECRETS - never commit these)
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+.next/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Debug logs
+*.log
+npm-debug.log*
