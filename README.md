@@ -1,0 +1,8 @@
+# Hello Git
+
+My first professional repository. Learning Git fundamentals as part of a 30-day software engineering bootcamp.
+
+## What I'm Learning
+- Git basics (init, add, commit, log, diff)
+- Professional commit messages
+- How snapshots work under the hood
