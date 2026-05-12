@@ -22,3 +22,4 @@ console.log(greet(studentName));
 console.log(`Day ${currentDay} of 30`);
 console.log(`${calculateDaysRemaining(currentDay)} days remaining`);
 console.log("Let's build something great.");
+console.log("--- Skills unlocked today: Git, Terminal, Professional Commits ---");
