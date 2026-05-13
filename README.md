@@ -6,3 +6,4 @@ My first professional repository. Learning Git fundamentals as part of a 30-day 
 - Git basics (init, add, commit, log, diff)
 - Professional commit messages
 - How snapshots work under the hood
+- Terminal commands: pwd, cd, ls, cat
