@@ -7,3 +7,5 @@ My first professional repository. Learning Git fundamentals as part of a 30-day 
 - Professional commit messages
 - How snapshots work under the hood
 - Terminal commands: pwd, cd, ls, cat
+## About Me
+I am learning professional software engineering in 30 days.
